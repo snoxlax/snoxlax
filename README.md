@@ -7,7 +7,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCIFp-Se_xjfYc94H04oK7Q)
 -->
 
-Checkout my [portfolio](vladgrey.dev) website!
+Checkout my [portfolio](https://vladgrey.dev) website!
 
 - I build with:  `TypeScript`, `React`, `Next.js`, `Java` and `C#`
 - I enjoy coding, photography and gaming.
