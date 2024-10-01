@@ -6,11 +6,16 @@
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/UCCIFp-Se_xjfYc94H04oK7Q)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCIFp-Se_xjfYc94H04oK7Q)
 -->
+Welcome!
 
 Checkout my [portfolio](https://digi-card-vert.vercel.app/) website!
 
 - I build with:  `TypeScript`, `React`, `Next.js`, `Java` and `C#`
 - I enjoy coding, photography and gaming.
+
+
+LOADING CODE...
+Will update...
 
 <!--
 **snoxlax/snoxlax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +28,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
