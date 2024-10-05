@@ -13,9 +13,9 @@ Checkout my [portfolio](https://digi-card-vert.vercel.app/) website!
 - I build with:  `TypeScript`, `React`, `Next.js`, `Java` and `C#`
 - I enjoy coding, photography and gaming.
 
+![](https://komarev.com/ghpvc/?username=snoxlax&style=flat-square&color=blueviolet&base=127&style=flat)
 
 LOADING CODE...
-Will update...
 
 <!--
 **snoxlax/snoxlax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
