@@ -7,8 +7,9 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCIFp-Se_xjfYc94H04oK7Q)
 -->
 Welcome!
-
+<!--
 Checkout my [portfolio](https://digi-card-vert.vercel.app/) website!
+-->
 
 - I build with:  `TypeScript`, `React`, `Next.js`, `Java` and `C#`
 - I enjoy coding, photography and gaming.
