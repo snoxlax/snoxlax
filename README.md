@@ -1,5 +1,4 @@
-
-  <img src="https://github.com/user-attachments/assets/181c2c65-59b6-4ff7-be91-ebb2c7ea88b6"/>
+<img src="https://github.com/user-attachments/assets/181c2c65-59b6-4ff7-be91-ebb2c7ea88b6"/>
 
 ## Hey there 👋
 I'm a Software Developer with a strong passion for programming and problem-solving. I love using code to bring ideas to life and tackle real-world challenges. Currently, I'm focused on building full-stack applications, with a particular interest in web development as my favorite way to create and deliver apps. I’m always exploring new technologies and aiming to grow as a developer through hands-on projects and continuous learning.
