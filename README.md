@@ -1,11 +1,14 @@
 <img src="https://github.com/user-attachments/assets/181c2c65-59b6-4ff7-be91-ebb2c7ea88b6"/>
 
 ## Hey there 👋
-I'm a Software Engineer and a code crafter.
 
-Passionate about web development and building well-designed systems, I love breaking problems apart and turning ideas into reality through code.
-I focus on creating scalable, polished full-stack applications with React and JavaScript that are both functional and user-friendly.
-Outside of work, I explore AI, machine learning, AI-generated art, photography, and occasionally dive into video games(very very rare).
+I’m a software developer who likes breaking problems apart, digging into systems, and figuring out how things work. 
+I enjoy turning ideas into real working products and exploring different parts of software development.
+
+Right now I’m mostly focused on web development, building projects across the full stack and working in different environments. 
+I also enjoy experimenting with AI and working with LLMs in different ways, including image creation and other media.
+
+Outside of coding I like photography, and I play video games sometimes but not that often.(very very rare).
 
 ![](https://komarev.com/ghpvc/?username=snoxlax&style=flat-square&color=blueviolet&base=127&style=flat)
 
