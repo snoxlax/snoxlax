@@ -37,6 +37,10 @@ Outside of coding I like photography, and I play video games sometimes but not t
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
+![Jotai](https://custom-icon-badges.demolab.com/badge/Jotai-3A3F47?style=flat&logo=jotai)
+![Zustand](https://custom-icon-badges.demolab.com/badge/Zustand-5C4A3A?style=flat&logo=zustand-logo)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
 ![Zod](https://img.shields.io/badge/Zod-408AFF?style=flat&logo=Zod&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
@@ -44,9 +48,6 @@ Outside of coding I like photography, and I play video games sometimes but not t
 ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
-![Zustand](https://custom-icon-badges.demolab.com/badge/Zustand-5C4A3A?style=flat&logo=zustand-logo)
-![Jotai](https://custom-icon-badges.demolab.com/badge/Jotai-3A3F47?style=flat&logo=jotai)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900)
