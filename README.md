@@ -38,7 +38,7 @@ Outside of coding I like photography, and I play video games sometimes but not t
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ![Jotai](https://custom-icon-badges.demolab.com/badge/Jotai-24292F?style=flat&logo=jotai)
-![Zustand](https://custom-icon-badges.demolab.com/badge/Zustand-5C4A3A?style=flat&logo=zustand-logo)
+![Zustand](https://img.shields.io/badge/Zustand-8A6A4F?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y%2BmAAAAYFBMVEUgHRkbGRCda1kWEhAkIBtjWU9pSDlybm7ThnGnWDT///9VNimyPR1TTUSEc2WqqlXFfGu7gWr//39SRjt/fwBBOjR/AAAA/wAAAABDPTY6NjBKQjotKSRyZFlpV0xdU0rOiQuSAAAAIHRSTlPtIvtfo/39Avn/AeT/lnkD5/oCWgJ1AgEB/v39/P/%2B%2BgyxFVUAAAF5SURBVHjaVVKHdoMwDJQXkKR7atn%2B/7%2BsJCBtD17C8%2Bnk0wA0vOGKd3zgZ5MSn/B7miIiYSUSwOtOrvg4a7rHFM7b0LQrn/GxM2lKtd6EocKybfkkMU1ahFVma02EmJec9bwzsWzbwiQUr9G01LAY5LBERE4YPEQLpsOtkVmYDlUTtqtxXdcgQXJkFTvuLbdJoPW4syi5zhMaM2bvnZnK0zvC1YSekvyn9ZEvS%2B9DrdhcAIt7JFGLab23y2WYVPT1JVfAKmHUCmXPOC1i9AGmTGBZIymbHdf0ORVGV74VM6ROsplwUoHB4JdWTJCMtONs1fAczoBOI6mu60FmA3uVeqPe3BC5MtJ6r60WHW08XMIPc8HTEO%2BvjvEQZSr70MAHH5C9HhlDjLPufhuZwm60T5jVwfbvc4E1pEIn4gIXfnnaa4Loa4yFjo7AuSY2Fua7WoL7s5oFrD0GiufOHXubQP10pxTOPT2XuljXAnDK/m18KdVQfrcb8QdvPz8m4Q7KcQAAAABJRU5ErkJggg==)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
