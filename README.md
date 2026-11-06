@@ -45,7 +45,7 @@ Outside of coding I like photography, and I play video games sometimes but not t
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
 ![Zustand](https://custom-icon-badges.demolab.com/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)
-![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat)
+![Jotai](https://custom-icon-badges.demolab.com/badge/Jotai-000000?style=flat&logo=jotai)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
