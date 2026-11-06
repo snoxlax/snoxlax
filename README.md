@@ -49,8 +49,8 @@ Outside of coding I like photography, and I play video games sometimes but not t
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900)
+![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops-white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
