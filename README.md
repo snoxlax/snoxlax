@@ -41,10 +41,10 @@ Outside of coding I like photography, and I play video games sometimes but not t
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat)
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=&logoColor=61DAFB)
+![Zustand](https://custom-icon-badges.demolab.com/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)
 ![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
